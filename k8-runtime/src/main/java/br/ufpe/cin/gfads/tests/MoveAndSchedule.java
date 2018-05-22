@@ -23,7 +23,6 @@ public class MoveAndSchedule {
 		Mover mover;
 		Moviment m;
 		
-
 		//filename
 		String fileName = "two-replicas-nginx.csv";
 		int replicas = 2;
